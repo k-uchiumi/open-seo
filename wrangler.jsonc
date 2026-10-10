@@ -25,7 +25,7 @@
       "binding": "DB",
       "database_name": "open-seo",
       "database_id": "bef4c299-ff33-470c-8b34-d92af1e81e19",
-      "migrations_dir": "drizzle",
+      "migrations_dir": "drizzle/sqlite",
     },
   ],
   "r2_buckets": [
